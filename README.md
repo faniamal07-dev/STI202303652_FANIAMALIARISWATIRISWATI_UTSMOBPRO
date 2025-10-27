@@ -157,4 +157,3 @@ Berisi informasi aplikasi seperti versi dan pembuat.
 ---
 
 
-> Pastikan jalurnya benar agar gambar tampil di GitHub README.
